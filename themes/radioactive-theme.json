@@ -7,27 +7,27 @@
     "activityBar.background": "#ff0000",
     "activityBar.border": "#ff0000",
     "activityBar.dropBorder": "#ff0000",
-    "activityBar.foreground": "#ff0000",
-    "activityBar.inactiveForeground": "#ff0000",
+    "activityBar.foreground": "#ffcc00",
+    "activityBar.inactiveForeground": "#ffcc00",
     "activityBarBadge.background": "#ff0000",
-    "activityBarBadge.foreground": "#ff0000",
+    "activityBarBadge.foreground": "#ffcc00",
 
     // Badge and Banner
     "badge.background": "#ff0000",
-    "badge.foreground": "#ff0000",
+    "badge.foreground": "#ffcc00",
     "banner.background": "#ff0000",
-    "banner.foreground": "#ff0000",
+    "banner.foreground": "#ffcc00",
 
     // Breadcrumb
-    "breadcrumb.activeSelectionForeground": "#ff0000",
+    "breadcrumb.activeSelectionForeground": "#ffcc00",
     "breadcrumb.background": "#ff0000",
-    "breadcrumb.focusForeground": "#ff0000",
-    "breadcrumb.foreground": "#ff0000",
+    "breadcrumb.focusForeground": "#ffcc00",
+    "breadcrumb.foreground": "#ffcc00",
     "breadcrumbPicker.background": "#ff0000",
 
     // Button
     "button.background": "#ff0000",
-    "button.foreground": "#ff0000",
+    "button.foreground": "#ffcc00",
 
     // Debugger
     "debugExceptionWidget.background": "#ff0000",
@@ -35,7 +35,7 @@
     "debugToolBar.background": "#ff0000",
 
     // Diff
-    "descriptionForeground": "#ff0000",
+    "descriptionForeground": "#ffcc00",
     "diffEditor.diagonalFill": "#ff0000",
     "diffEditor.insertedTextBackground": "#ff0000",
     "diffEditor.removedTextBackground": "#ff0000",
@@ -43,52 +43,52 @@
     // Dropdown
     "dropdown.background": "#ff0000",
     "dropdown.border": "#ff0000",
-    "dropdown.foreground": "#ff0000",
+    "dropdown.foreground": "#ffcc00",
 
     // Editor
     "editor.background": "#ff0000",
-    "editor.foreground": "#ff0000",
+    "editor.foreground": "#ffcc00",
     "editor.findMatchHighlightBackground": "#ff0000",
     "editor.selectionBackground": "#ff0000",
     "editorBracketMatch.background": "#ff0000",
     "editorBracketMatch.border": "#ff0000",
-    "editorCursor.foreground": "#ff0000",
+    "editorCursor.foreground": "#ffcc00",
     "editorGroup.border": "#ff0000",
     "editorGroup.dropBackground": "#ff0000",
     "editorGroupHeader.noTabsBackground": "#ff0000",
     "editorGroupHeader.tabsBackground": "#ff0000",
     "editorHoverWidget.background": "#ff0000",
     "editorHoverWidget.border": "#ff0000",
-    "editorHoverWidget.foreground": "#ff0000",
+    "editorHoverWidget.foreground": "#ffcc00",
     "editorHoverWidget.statusBarBackground": "#ff0000",
     "editorIndentGuide.activeBackground": "#ff0000",
     "editorIndentGuide.background": "#ff0000",
-    "editorLineNumber.activeForeground": "#ff0000",
-    "editorLineNumber.foreground": "#ff0000",
-    "editorLink.activeForeground": "#ff0000",
+    "editorLineNumber.activeForeground": "#ffcc00",
+    "editorLineNumber.foreground": "#ffcc00",
+    "editorLink.activeForeground": "#ffcc00",
     "editorMarkerNavigation.background": "#ff0000",
     "editorMarkerNavigationError.background": "#ff0000",
     "editorMarkerNavigationInfo.background": "#ff0000",
     "editorMarkerNavigationWarning.background": "#ff0000",
-    "editorWhitespace.foreground": "#ff0000",
+    "editorWhitespace.foreground": "#ffcc00",
     "editorWidget.background": "#ff0000",
     "editorWidget.border": "#ff0000",
-    "editorWidget.foreground": "#ff0000",
+    "editorWidget.foreground": "#ffcc00",
 
     // Extension Button
     "extensionButton.prominentBackground": "#ff0000",
     "extensionButton.prominentHoverBackground": "#ff0000",
 
     // Icon
-    "icon.foreground": "#ff0000",
+    "icon.foreground": "#ffcc00",
 
     // Input
     "input.background": "#ff0000",
-    "input.foreground": "#ff0000",
-    "input.placeholderForeground": "#ff0000",
+    "input.foreground": "#ffcc00",
+    "input.placeholderForeground": "#ffcc00",
     "inputOption.activeBackground": "#ff0000",
     "inputOption.activeBorder": "#ff0000",
-    "inputOption.activeForeground": "#ff0000",
+    "inputOption.activeForeground": "#ffcc00",
     "inputValidation.errorBackground": "#ff0000",
     "inputValidation.errorBorder": "#ff0000",
     "inputValidation.infoBackground": "#ff0000",
@@ -97,15 +97,15 @@
     "inputValidation.warningBorder": "#ff0000",
 
     // Decorations (file color with git changes)
-    "gitDecoration.modifiedResourceForeground": "#ff0000",
+    "gitDecoration.modifiedResourceForeground": "#ffcc00",
 
     // List
     "list.activeSelectionBackground": "#ff0000",
-    "list.activeSelectionForeground": "#ff0000",
-    "list.errorForeground": "#ff0000",
-    "list.warningForeground": "#ff0000",
+    "list.activeSelectionForeground": "#ffcc00",
+    "list.errorForeground": "#ffcc00",
+    "list.warningForeground": "#ffcc00",
     "list.dropBackground": "#ff0000",
-    "list.highlightForeground": "#ff0000",
+    "list.highlightForeground": "#ffcc00",
     "list.hoverBackground": "#ff0000",
     "list.inactiveSelectionBackground": "#ff0000",
 
@@ -122,8 +122,8 @@
     "panelSection.border": "#ff0000",
     "panelSection.dropBackground": "#ff0000",
     "panelTitle.activeBorder": "#ff0000",
-    "panelTitle.activeForeground": "#ff0000",
-    "panelTitle.inactiveForeground": "#ff0000",
+    "panelTitle.activeForeground": "#ffcc00",
+    "panelTitle.inactiveForeground": "#ffcc00",
 
     // Peek View
     "peekView.border": "#ff0000",
@@ -135,14 +135,14 @@
     "peekViewTitle.background": "#ff0000",
 
     // Ports and Progress Bar
-    "ports.iconRunningProcessForeground": "#ff0000",
+    "ports.iconRunningProcessForeground": "#ffcc00",
     "progressBar.background": "#ff0000",
 
     // Quick input
     "quickInput.background": "#ff0000",
-    "quickInput.foreground": "#ff0000",
+    "quickInput.foreground": "#ffcc00",
     "quickInputList.focusBackground": "#ff0000",
-    "quickInputList.focusForeground": "#ff0000",
+    "quickInputList.focusForeground": "#ffcc00",
     "quickInputTitle.background": "#ff0000",
 
     // Scrollbar
@@ -154,37 +154,37 @@
     "sideBar.background": "#ff0000",
     "sideBar.border": "#ff0000",
     "sideBar.dropBackground": "#ff0000",
-    "sideBar.foreground": "#ff0000",
+    "sideBar.foreground": "#ffcc00",
     "sideBarSectionHeader.background": "#ff0000",
     "sideBarSectionHeader.border": "#ff0000",
-    "sideBarSectionHeader.foreground": "#ff0000",
+    "sideBarSectionHeader.foreground": "#ffcc00",
 
     // Statusbar
     "statusBar.background": "#ff0000",
     "statusBar.debuggingBackground": "#ff0000",
-    "statusBar.debuggingForeground": "#ff0000",
-    "statusBar.foreground": "#ff0000",
+    "statusBar.debuggingForeground": "#ffcc00",
+    "statusBar.foreground": "#ffcc00",
     "statusBar.noFolderBackground": "#ff0000",
-    "statusBar.noFolderForeground": "#ff0000",
+    "statusBar.noFolderForeground": "#ffcc00",
     "statusBarItem.activeBackground": "#ff0000",
     "statusBarItem.errorBackground": "#ff0000",
-    "statusBarItem.errorForeground": "#ff0000",
+    "statusBarItem.errorForeground": "#ffcc00",
     "statusBarItem.hoverBackground": "#ff0000",
     "statusBarItem.prominentBackground": "#ff0000",
-    "statusBarItem.prominentForeground": "#ff0000",
+    "statusBarItem.prominentForeground": "#ffcc00",
     "statusBarItem.prominentHoverBackground": "#ff0000",
     "statusBarItem.remoteBackground": "#ff0000",
-    "statusBarItem.remoteForeground": "#ff0000",
+    "statusBarItem.remoteForeground": "#ffcc00",
 
     // Tab
     "tab.activeBackground": "#ff0000",
-    "tab.activeForeground": "#ff0000",
+    "tab.activeForeground": "#ffcc00",
     "tab.inactiveBackground": "#ff0000",
-    "tab.inactiveForeground": "#ff0000",
+    "tab.inactiveForeground": "#ffcc00",
     
     // Title Bar
     "titleBar.activeBackground": "#ff0000",
-    "titleBar.activeForeground": "#ff0000",
+    "titleBar.activeForeground": "#ffcc00",
     "titleBar.inactiveBackground": "#ff0000",
     "titleBar.inactiveForeground": "#ff0000"
   },
@@ -287,7 +287,7 @@
       }
     },
     {
-      // Function parameter (not argument)
+      // Function parameter
       "scope": "variable.parameter",
       "settings": {
         "foreground": "#ff0000"
