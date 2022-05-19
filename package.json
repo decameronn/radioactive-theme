@@ -16,9 +16,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Solar System - Mercury",
+                "label": "Radioactive",
                 "uiTheme": "vs-dark",
-                "path": "./themes/solar-system-mercury-theme.json"
+                "path": "./themes/radioactive-theme.json"
             }
         ]
     },
