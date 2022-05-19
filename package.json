@@ -29,5 +29,9 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/decameronn/radioactive-theme"
+    },
+    "bugs": {
+        "type": "git",
+        "url": "https://github.com/decameronn/radioactive-theme/issues"
     }
 }
