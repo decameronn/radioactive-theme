@@ -1,0 +1,37 @@
+{
+    "name": "radioactive-theme",
+    "displayName": "Radioactive Theme",
+    "description": "I'm radioactive!",
+    "version": "0.0.1",
+    "author": "Decameron",
+    "publisher": "decameron",
+    "icon": "images/icon.png",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Radioactive",
+                "uiTheme": "vs-dark",
+                "path": "./themes/radioactive-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "radioactive", "theme", 
+        "dark", "decameron"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/decameronn/radioactive-theme"
+    },
+    "bugs": {
+        "type": "git",
+        "url": "https://github.com/decameronn/radioactive-theme/issues"
+    }
+}
