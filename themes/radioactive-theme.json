@@ -7,27 +7,27 @@
     "activityBar.background": "#342127",
     "activityBar.border": "#ff0000",
     "activityBar.dropBorder": "#ff0000",
-    "activityBar.foreground": "#ffcc00",
-    "activityBar.inactiveForeground": "#ffcc00",
+    "activityBar.foreground": "#ffa72e",
+    "activityBar.inactiveForeground": "#ffa72e",
     "activityBarBadge.background": "#342127",
-    "activityBarBadge.foreground": "#ffcc00",
+    "activityBarBadge.foreground": "#ffa72e",
 
     // Badge and Banner
     "badge.background": "#342127",
-    "badge.foreground": "#ffcc00",
+    "badge.foreground": "#ffa72e",
     "banner.background": "#342127",
-    "banner.foreground": "#ffcc00",
+    "banner.foreground": "#ffa72e",
 
     // Breadcrumb
-    "breadcrumb.activeSelectionForeground": "#ffcc00",
+    "breadcrumb.activeSelectionForeground": "#ffa72e",
     "breadcrumb.background": "#342127",
-    "breadcrumb.focusForeground": "#ffcc00",
-    "breadcrumb.foreground": "#ffcc00",
+    "breadcrumb.focusForeground": "#ffa72e",
+    "breadcrumb.foreground": "#ffa72e",
     "breadcrumbPicker.background": "#342127",
 
     // Button
     "button.background": "#342127",
-    "button.foreground": "#ffcc00",
+    "button.foreground": "#ffa72e",
 
     // Debugger
     "debugExceptionWidget.background": "#342127",
@@ -35,7 +35,7 @@
     "debugToolBar.background": "#342127",
 
     // Diff
-    "descriptionForeground": "#ffcc00",
+    "descriptionForeground": "#ffa72e",
     "diffEditor.diagonalFill": "#ff0000",
     "diffEditor.insertedTextBackground": "#342127",
     "diffEditor.removedTextBackground": "#342127",
@@ -43,52 +43,52 @@
     // Dropdown
     "dropdown.background": "#342127",
     "dropdown.border": "#ff0000",
-    "dropdown.foreground": "#ffcc00",
+    "dropdown.foreground": "#ffa72e",
 
     // Editor
     "editor.background": "#342127",
-    "editor.foreground": "#ffcc00",
+    "editor.foreground": "#ffa72e",
     "editor.findMatchHighlightBackground": "#342127",
     "editor.selectionBackground": "#342127",
     "editorBracketMatch.background": "#342127",
     "editorBracketMatch.border": "#ff0000",
-    "editorCursor.foreground": "#ffcc00",
+    "editorCursor.foreground": "#ffa72e",
     "editorGroup.border": "#ff0000",
     "editorGroup.dropBackground": "#342127",
     "editorGroupHeader.noTabsBackground": "#342127",
     "editorGroupHeader.tabsBackground": "#342127",
     "editorHoverWidget.background": "#342127",
     "editorHoverWidget.border": "#ff0000",
-    "editorHoverWidget.foreground": "#ffcc00",
+    "editorHoverWidget.foreground": "#ffa72e",
     "editorHoverWidget.statusBarBackground": "#342127",
     "editorIndentGuide.activeBackground": "#342127",
     "editorIndentGuide.background": "#342127",
-    "editorLineNumber.activeForeground": "#ffcc00",
-    "editorLineNumber.foreground": "#ffcc00",
-    "editorLink.activeForeground": "#ffcc00",
+    "editorLineNumber.activeForeground": "#ffa72e",
+    "editorLineNumber.foreground": "#ffa72e",
+    "editorLink.activeForeground": "#ffa72e",
     "editorMarkerNavigation.background": "#342127",
     "editorMarkerNavigationError.background": "#342127",
     "editorMarkerNavigationInfo.background": "#342127",
     "editorMarkerNavigationWarning.background": "#342127",
-    "editorWhitespace.foreground": "#ffcc00",
+    "editorWhitespace.foreground": "#ffa72e",
     "editorWidget.background": "#342127",
     "editorWidget.border": "#ff0000",
-    "editorWidget.foreground": "#ffcc00",
+    "editorWidget.foreground": "#ffa72e",
 
     // Extension Button
     "extensionButton.prominentBackground": "#342127",
     "extensionButton.prominentHoverBackground": "#342127",
 
     // Icon
-    "icon.foreground": "#ffcc00",
+    "icon.foreground": "#ffa72e",
 
     // Input
     "input.background": "#342127",
-    "input.foreground": "#ffcc00",
-    "input.placeholderForeground": "#ffcc00",
+    "input.foreground": "#ffa72e",
+    "input.placeholderForeground": "#ffa72e",
     "inputOption.activeBackground": "#342127",
     "inputOption.activeBorder": "#ff0000",
-    "inputOption.activeForeground": "#ffcc00",
+    "inputOption.activeForeground": "#ffa72e",
     "inputValidation.errorBackground": "#342127",
     "inputValidation.errorBorder": "#ff0000",
     "inputValidation.infoBackground": "#342127",
@@ -97,16 +97,16 @@
     "inputValidation.warningBorder": "#ff0000",
 
     // Decorations (file color with git changes)
-    "gitDecoration.modifiedResourceForeground": "#ffcc00",
+    "gitDecoration.modifiedResourceForeground": "#ffa72e",
 
     // List
     "list.activeSelectionBackground": "#342127",
-    "list.activeSelectionForeground": "#ffcc00",
-    "list.errorForeground": "#ffcc00",
-    "list.warningForeground": "#ffcc00",
+    "list.activeSelectionForeground": "#ffa72e",
+    "list.errorForeground": "#ffa72e",
+    "list.warningForeground": "#ffa72e",
     "list.dropBackground": "#342127",
-    "list.highlightForeground": "#ffcc00",
-    "list.hoverBackground": "#342127",
+    "list.highlightForeground": "#ffa72e",
+    "list.hoverBackground": "#ff893199", //342127
     "list.inactiveSelectionBackground": "#342127",
 
     // Minimap
@@ -122,8 +122,8 @@
     "panelSection.border": "#ff0000",
     "panelSection.dropBackground": "#342127",
     "panelTitle.activeBorder": "#ff0000",
-    "panelTitle.activeForeground": "#ffcc00",
-    "panelTitle.inactiveForeground": "#ffcc00",
+    "panelTitle.activeForeground": "#ffa72e",
+    "panelTitle.inactiveForeground": "#ffa72e",
 
     // Peek View
     "peekView.border": "#ff0000",
@@ -135,14 +135,14 @@
     "peekViewTitle.background": "#342127",
 
     // Ports and Progress Bar
-    "ports.iconRunningProcessForeground": "#ffcc00",
+    "ports.iconRunningProcessForeground": "#ffa72e",
     "progressBar.background": "#342127",
 
     // Quick input
     "quickInput.background": "#342127",
-    "quickInput.foreground": "#ffcc00",
+    "quickInput.foreground": "#ffa72e",
     "quickInputList.focusBackground": "#342127",
-    "quickInputList.focusForeground": "#ffcc00",
+    "quickInputList.focusForeground": "#ffa72e",
     "quickInputTitle.background": "#342127",
 
     // Scrollbar
@@ -154,37 +154,37 @@
     "sideBar.background": "#342127",
     "sideBar.border": "#ff0000",
     "sideBar.dropBackground": "#342127",
-    "sideBar.foreground": "#ffcc00",
+    "sideBar.foreground": "#ffa72e",
     "sideBarSectionHeader.background": "#342127",
     "sideBarSectionHeader.border": "#ff0000",
-    "sideBarSectionHeader.foreground": "#ffcc00",
+    "sideBarSectionHeader.foreground": "#ffa72e",
 
     // Statusbar
     "statusBar.background": "#342127",
     "statusBar.debuggingBackground": "#342127",
-    "statusBar.debuggingForeground": "#ffcc00",
-    "statusBar.foreground": "#ffcc00",
+    "statusBar.debuggingForeground": "#ffa72e",
+    "statusBar.foreground": "#ffa72e",
     "statusBar.noFolderBackground": "#342127",
-    "statusBar.noFolderForeground": "#ffcc00",
+    "statusBar.noFolderForeground": "#ffa72e",
     "statusBarItem.activeBackground": "#342127",
     "statusBarItem.errorBackground": "#342127",
-    "statusBarItem.errorForeground": "#ffcc00",
+    "statusBarItem.errorForeground": "#ffa72e",
     "statusBarItem.hoverBackground": "#342127",
     "statusBarItem.prominentBackground": "#342127",
-    "statusBarItem.prominentForeground": "#ffcc00",
+    "statusBarItem.prominentForeground": "#ffa72e",
     "statusBarItem.prominentHoverBackground": "#342127",
     "statusBarItem.remoteBackground": "#342127",
-    "statusBarItem.remoteForeground": "#ffcc00",
+    "statusBarItem.remoteForeground": "#ffa72e",
 
     // Tab
     "tab.activeBackground": "#342127",
-    "tab.activeForeground": "#ffcc00",
+    "tab.activeForeground": "#ffa72e",
     "tab.inactiveBackground": "#342127",
-    "tab.inactiveForeground": "#ffcc00",
+    "tab.inactiveForeground": "#ffa72e",
     
     // Title Bar
     "titleBar.activeBackground": "#342127",
-    "titleBar.activeForeground": "#ffcc00",
+    "titleBar.activeForeground": "#ffa72e",
     "titleBar.inactiveBackground": "#342127",
     "titleBar.inactiveForeground": "#ff0000"
   },
@@ -193,7 +193,7 @@
       // Comment
       "scope": "comment",
       "settings": {
-        "foreground": "#ff0000"
+        "foreground": "#8f5046"
       }
     },
     {
@@ -203,7 +203,7 @@
         "comment.block.documentation"
       ],
       "settings": {
-        "foreground": "#ff0000"
+        "foreground": "#5c332d"
       }
     },
     {
