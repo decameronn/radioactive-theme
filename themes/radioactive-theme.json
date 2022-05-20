@@ -217,14 +217,14 @@
       // Numeric constant
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#a42d20"
+        "foreground": "#661c14"
       }
     },
     {
       // Built-in constants
       "scope": "constant.language",
       "settings": {
-        "foreground": "#a42d20"
+        "foreground": "#661c14"
       }
     },
     {
@@ -234,7 +234,7 @@
         "constant.other"
       ],
       "settings": {
-        "foreground": "#a42d20"
+        "foreground": "#661c14"
       }
     },
     {
@@ -283,7 +283,7 @@
       // Function
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#a42d20"
+        "foreground": "#d74333" //d13f25
       }
     },
     {
