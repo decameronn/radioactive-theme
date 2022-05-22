@@ -51,6 +51,7 @@
     "editor.findMatchHighlightBackground": "#342127",
     "editor.selectionBackground": "#fff7eb",
     "editor.inactiveSelectionBackground": "#fff7ebaa",
+    // "editor.findMatchBackground": "#ff0000", // investigate this more
     "editorBracketMatch.background": "#342127",
     "editorBracketMatch.border": "#40e0d0",
     "editorCursor.foreground": "#ffa72e",
