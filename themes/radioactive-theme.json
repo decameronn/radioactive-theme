@@ -49,7 +49,8 @@
     "editor.background": "#342127",
     "editor.foreground": "#ffa72e",
     "editor.findMatchHighlightBackground": "#342127",
-    "editor.selectionBackground": "#342127",
+    "editor.selectionBackground": "#fff7eb",
+    "editor.inactiveSelectionBackground": "#fff7ebaa",
     "editorBracketMatch.background": "#342127",
     "editorBracketMatch.border": "#40e0d0",
     "editorCursor.foreground": "#ffa72e",
@@ -181,6 +182,10 @@
     "tab.activeForeground": "#ffa72e",
     "tab.inactiveBackground": "#342127",
     "tab.inactiveForeground": "#ffa72e",
+    "tab.hoverForeground": "#40e0d0",
+    // "tab.unfocusedActiveForeground": "#ffa72e",
+    // "tab.unfocusedInactiveForeground": "#ffa72e",
+    "tab.lastPinnedBorder": "#40e0d0",
     
     // Title Bar
     "titleBar.activeBackground": "#342127",
