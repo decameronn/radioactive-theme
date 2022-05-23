@@ -3,10 +3,10 @@
   "type": "dark",
   "colors": {
     // Activity bar
-    "activityBar.activeBorder": "#40e0d0",
+    "activityBar.activeBorder": "#661c14",
     "activityBar.background": "#342127",
-    "activityBar.border": "#40e0d0",
-    "activityBar.dropBorder": "#40e0d0",
+    "activityBar.border": "#661c14",
+    "activityBar.dropBorder": "#661c14",
     "activityBar.foreground": "#ffa72e",
     "activityBar.inactiveForeground": "#ffa72e",
     "activityBarBadge.background": "#342127",
@@ -31,7 +31,7 @@
 
     // Debugger
     "debugExceptionWidget.background": "#342127",
-    "debugExceptionWidget.border": "#40e0d0",
+    "debugExceptionWidget.border": "#661c14",
     "debugToolBar.background": "#342127",
 
     // Diff
@@ -42,7 +42,7 @@
 
     // Dropdown
     "dropdown.background": "#342127",
-    "dropdown.border": "#40e0d0",
+    "dropdown.border": "#661c14",
     "dropdown.foreground": "#ffa72e",
 
     // Editor
@@ -53,14 +53,14 @@
     "editor.inactiveSelectionBackground": "#fff7ebaa",
     // "editor.findMatchBackground": "#40e0d0", // investigate this more
     "editorBracketMatch.background": "#342127",
-    "editorBracketMatch.border": "#40e0d0",
+    "editorBracketMatch.border": "#661c14",
     "editorCursor.foreground": "#ffa72e",
-    "editorGroup.border": "#40e0d0",
+    "editorGroup.border": "#661c14",
     "editorGroup.dropBackground": "#342127",
     "editorGroupHeader.noTabsBackground": "#342127",
     "editorGroupHeader.tabsBackground": "#342127",
     "editorHoverWidget.background": "#342127",
-    "editorHoverWidget.border": "#40e0d0",
+    "editorHoverWidget.border": "#661c14",
     "editorHoverWidget.foreground": "#ffa72e",
     "editorHoverWidget.statusBarBackground": "#342127",
     "editorIndentGuide.activeBackground": "#342127",
@@ -74,7 +74,7 @@
     "editorMarkerNavigationWarning.background": "#342127",
     "editorWhitespace.foreground": "#ffa72e",
     "editorWidget.background": "#342127",
-    "editorWidget.border": "#40e0d0",
+    "editorWidget.border": "#661c14",
     "editorWidget.foreground": "#ffa72e",
 
     // Extension Button
@@ -89,14 +89,14 @@
     "input.foreground": "#ffa72e",
     "input.placeholderForeground": "#ffa72e",
     "inputOption.activeBackground": "#342127",
-    "inputOption.activeBorder": "#40e0d0",
+    "inputOption.activeBorder": "#661c14",
     "inputOption.activeForeground": "#ffa72e",
     "inputValidation.errorBackground": "#342127",
-    "inputValidation.errorBorder": "#40e0d0",
+    "inputValidation.errorBorder": "#661c14",
     "inputValidation.infoBackground": "#342127",
-    "inputValidation.infoBorder": "#40e0d0",
+    "inputValidation.infoBorder": "#661c14",
     "inputValidation.warningBackground": "#342127",
-    "inputValidation.warningBorder": "#40e0d0",
+    "inputValidation.warningBorder": "#661c14",
 
     // Decorations (file color with git changes)
     "gitDecoration.modifiedResourceForeground": "#ffa72e",
@@ -119,16 +119,16 @@
 
     // Panel
     "panel.background": "#342127",
-    "panel.border": "#40e0d0",
-    "panel.dropBorder": "#40e0d0",
-    "panelSection.border": "#40e0d0",
+    "panel.border": "#661c14",
+    "panel.dropBorder": "#661c14",
+    "panelSection.border": "#661c14",
     "panelSection.dropBackground": "#342127",
-    "panelTitle.activeBorder": "#40e0d0",
+    "panelTitle.activeBorder": "#661c14",
     "panelTitle.activeForeground": "#ffa72e",
     "panelTitle.inactiveForeground": "#ffa72e",
 
     // Peek View
-    "peekView.border": "#40e0d0",
+    "peekView.border": "#661c14",
     "peekViewEditor.background": "#342127",
     "peekViewEditor.matchHighlightBackground": "#342127",
     "peekViewEditorGutter.background": "#342127",
@@ -154,11 +154,11 @@
 
     // Sidebar
     "sideBar.background": "#342127",
-    "sideBar.border": "#40e0d0",
+    "sideBar.border": "#661c14",
     "sideBar.dropBackground": "#342127",
     "sideBar.foreground": "#ffa72e",
     "sideBarSectionHeader.background": "#342127",
-    "sideBarSectionHeader.border": "#40e0d0",
+    "sideBarSectionHeader.border": "#661c14",
     "sideBarSectionHeader.foreground": "#ffa72e",
 
     // Statusbar
@@ -183,14 +183,14 @@
     "tab.activeForeground": "#ffa72e",
     "tab.inactiveBackground": "#342127",
     "tab.inactiveForeground": "#ffa72e",
-    "tab.hoverForeground": "#40e0d0",
+    "tab.hoverForeground": "#ffd13a",
     // "tab.unfocusedActiveForeground": "#ffa72e",
     // "tab.unfocusedInactiveForeground": "#ffa72e",
-    "tab.border": "#40e0d0",
-    "tab.lastPinnedBorder": "#40e0d0",
-    // "tab.activeBorder": "#40e0d0",
+    "tab.border": "#661c14",
+    "tab.lastPinnedBorder": "#661c14",
+    // "tab.activeBorder": "#661c14",
     // "tab.activeBorderTop": "#40e0d0",
-    "tab.activeModifiedBorder": "#40e0d0",
+    "tab.activeModifiedBorder": "#661c14",
     
     
     // Title Bar
@@ -198,7 +198,7 @@
     "titleBar.activeForeground": "#ffa72e",
     "titleBar.inactiveBackground": "#342127",
     "titleBar.inactiveForeground": "#40e0d0",
-    "titleBar.border": "#40e0d0"
+    "titleBar.border": "#661c14"
   },
   "tokenColors": [
     {
