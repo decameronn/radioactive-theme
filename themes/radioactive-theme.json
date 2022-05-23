@@ -51,7 +51,7 @@
     "editor.findMatchHighlightBackground": "#342127",
     "editor.selectionBackground": "#fff7eb",
     "editor.inactiveSelectionBackground": "#fff7ebaa",
-    // "editor.findMatchBackground": "#ff0000", // investigate this more
+    // "editor.findMatchBackground": "#40e0d0", // investigate this more
     "editorBracketMatch.background": "#342127",
     "editorBracketMatch.border": "#40e0d0",
     "editorCursor.foreground": "#ffa72e",
@@ -186,13 +186,19 @@
     "tab.hoverForeground": "#40e0d0",
     // "tab.unfocusedActiveForeground": "#ffa72e",
     // "tab.unfocusedInactiveForeground": "#ffa72e",
+    "tab.border": "#40e0d0",
     "tab.lastPinnedBorder": "#40e0d0",
+    // "tab.activeBorder": "#40e0d0",
+    // "tab.activeBorderTop": "#40e0d0",
+    "tab.activeModifiedBorder": "#40e0d0",
+    
     
     // Title Bar
     "titleBar.activeBackground": "#342127",
     "titleBar.activeForeground": "#ffa72e",
     "titleBar.inactiveBackground": "#342127",
-    "titleBar.inactiveForeground": "#40e0d0"
+    "titleBar.inactiveForeground": "#40e0d0",
+    "titleBar.border": "#40e0d0"
   },
   "tokenColors": [
     {
