@@ -141,7 +141,7 @@
     "progressBar.background": "#111111",
 
     // Quick input
-    "quickInput.background": "#111111",
+    "quickInput.background": "#442621", //111111
     "quickInput.foreground": "#ffa72e",
     "quickInputList.focusBackground": "#111111",
     "quickInputList.focusForeground": "#ffa72e",
