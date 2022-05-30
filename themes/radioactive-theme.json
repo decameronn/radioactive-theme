@@ -102,14 +102,14 @@
     "gitDecoration.modifiedResourceForeground": "#ffa72e",
 
     // List
-    "list.activeSelectionBackground": "#111111",
+    "list.activeSelectionBackground": "#81481c99", //111111
     "list.activeSelectionForeground": "#ffa72e",
     "list.errorForeground": "#ffa72e",
     "list.warningForeground": "#ffa72e",
-    "list.dropBackground": "#111111",
+    "list.dropBackground": "#ac5f2499",  //111111
     "list.highlightForeground": "#ffa72e",
-    "list.hoverBackground": "#ff893199", //111111
-    "list.inactiveSelectionBackground": "#111111",
+    "list.hoverBackground": "#ac5f2499", //111111 ff893199
+    "list.inactiveSelectionBackground": "#81481c99", //111111
 
     // Minimap
     "minimap.errorHighlight": "#40e0d0",
