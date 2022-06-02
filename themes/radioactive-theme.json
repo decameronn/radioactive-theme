@@ -206,7 +206,7 @@
       // Comment
       "scope": "comment",
       "settings": {
-        "foreground": "#8f5046"
+        "foreground": "#878584" //8f5046 
       }
     },
     {
@@ -216,7 +216,7 @@
         "comment.block.documentation"
       ],
       "settings": {
-        "foreground": "#5c332d"
+        "foreground": "#61605f"  //724139
       }
     },
     {
@@ -296,7 +296,7 @@
       // Function
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#d74333" //d13f25
+        "foreground": "#c43f30" //d13f25
       }
     },
     {
@@ -324,7 +324,7 @@
       // Library function
       "scope": "support.function",
       "settings": {
-        "foreground": "#40e0d0"
+        "foreground": "#ccb603"
       }
     },
     {
