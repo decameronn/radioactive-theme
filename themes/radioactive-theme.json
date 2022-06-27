@@ -102,14 +102,14 @@
     "gitDecoration.modifiedResourceForeground": "#ffa72e",
 
     // List
-    "list.activeSelectionBackground": "#81481c99", //111111
+    "list.activeSelectionBackground": "#111111",
     "list.activeSelectionForeground": "#ffa72e",
     "list.errorForeground": "#ffa72e",
     "list.warningForeground": "#ffa72e",
-    "list.dropBackground": "#ac5f2499",  //111111
+    "list.dropBackground": "#111111",
     "list.highlightForeground": "#ffa72e",
-    "list.hoverBackground": "#ac5f2499", //111111 ff893199
-    "list.inactiveSelectionBackground": "#81481c99", //111111
+    "list.hoverBackground": "#ff893199", //111111
+    "list.inactiveSelectionBackground": "#111111",
 
     // Minimap
     "minimap.errorHighlight": "#40e0d0",
@@ -141,16 +141,16 @@
     "progressBar.background": "#111111",
 
     // Quick input
-    "quickInput.background": "#442621", //111111
+    "quickInput.background": "#111111",
     "quickInput.foreground": "#ffa72e",
     "quickInputList.focusBackground": "#111111",
     "quickInputList.focusForeground": "#ffa72e",
     "quickInputTitle.background": "#111111",
 
     // Scrollbar
-    "scrollbarSlider.activeBackground": "#442621",
-    "scrollbarSlider.background": "#442621",
-    "scrollbarSlider.hoverBackground": "#ac5f2499",
+    "scrollbarSlider.activeBackground": "#111111",
+    "scrollbarSlider.background": "#111111",
+    "scrollbarSlider.hoverBackground": "#111111",
 
     // Sidebar
     "sideBar.background": "#111111",
@@ -181,10 +181,10 @@
 
     // Tab
     "tab.activeBackground": "#111111",
-    "tab.activeForeground": "#ffa72e",
+    "tab.activeForeground": "#ccb603", //ffa72e
     "tab.inactiveBackground": "#111111",
-    "tab.inactiveForeground": "#ffa72e",
-    "tab.hoverForeground": "#ffd13a",
+    "tab.inactiveForeground": "#ccb603dd", //ffa72e
+    "tab.hoverForeground": "#ccb603", //ffd13a
     // "tab.unfocusedActiveForeground": "#ffa72e",
     // "tab.unfocusedInactiveForeground": "#ffa72e",
     "tab.border": "#661c14",
@@ -206,7 +206,7 @@
       // Comment
       "scope": "comment",
       "settings": {
-        "foreground": "#878584" //8f5046 
+        "foreground": "#b8ff48" //8f5046 70b445
       }
     },
     {
@@ -216,14 +216,14 @@
         "comment.block.documentation"
       ],
       "settings": {
-        "foreground": "#61605f"  //724139
+        "foreground": "#cefc48" //5c332d
       }
     },
     {
       // String
       "scope": "string",
       "settings": {
-        "foreground": "#9b9449"
+        "foreground": "#40e0d0"
       }
     },
     {
@@ -296,7 +296,7 @@
       // Function
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#c43f30" //d13f25
+        "foreground": "#d74333" //d13f25
       }
     },
     {
@@ -324,7 +324,7 @@
       // Library function
       "scope": "support.function",
       "settings": {
-        "foreground": "#ccb603"
+        "foreground": "#40e0d0"
       }
     },
     {
