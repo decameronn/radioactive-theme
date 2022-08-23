@@ -3,10 +3,10 @@
   "type": "dark",
   "colors": {
     // Activity bar
-    "activityBar.activeBorder": "#661c14",
+    "activityBar.activeBorder": "#3e8030", //661c14
     "activityBar.background": "#111111",
-    "activityBar.border": "#661c14",
-    "activityBar.dropBorder": "#661c14",
+    "activityBar.border": "#3e8030", //661c14
+    "activityBar.dropBorder": "#3e8030", //661c14
     "activityBar.foreground": "#ffa72e",
     "activityBar.inactiveForeground": "#ffa72e",
     "activityBarBadge.background": "#111111",
@@ -154,15 +154,15 @@
 
     // Sidebar
     "sideBar.background": "#111111",
-    "sideBar.border": "#661c14",
+    "sideBar.border": "#3e8030", //661c14
     "sideBar.dropBackground": "#111111",
     "sideBar.foreground": "#ffa72e",
     "sideBarSectionHeader.background": "#111111",
-    "sideBarSectionHeader.border": "#661c14",
+    "sideBarSectionHeader.border": "#3e8030", //661c14
     "sideBarSectionHeader.foreground": "#ffa72e",
 
     // Statusbar
-    "statusBar.background": "#ccb603", //661c14
+    "statusBar.background": "#b0d011", //661c14 ccb603
     // "statusBarItem.warningBackground": "#ff0000",
     "statusBar.debuggingBackground": "#111111",
     "statusBar.debuggingForeground": "#ffa72e",
@@ -195,9 +195,9 @@
     
     
     // Title Bar
-    "titleBar.activeBackground": "#ccb603", //661c14
+    "titleBar.activeBackground": "#b0d011", //661c14 ccb603
     "titleBar.activeForeground": "#111111", //ffa72e
-    "titleBar.inactiveBackground": "#ccb603cc", //661c14aa
+    "titleBar.inactiveBackground": "#b0d011cc", //661c14aa ccb603cc
     "titleBar.inactiveForeground": "#111111", //40e0d0
     "titleBar.border": "#661c14"
   },
@@ -206,7 +206,7 @@
       // Comment
       "scope": "comment",
       "settings": {
-        "foreground": "#b8ff48" //8f5046 70b445
+        "foreground": "#ebfa63" //8f5046 70b445
       }
     },
     {
@@ -216,14 +216,14 @@
         "comment.block.documentation"
       ],
       "settings": {
-        "foreground": "#cefc48" //5c332d
+        "foreground": "#e5ff64" //5c332d
       }
     },
     {
       // String
       "scope": "string",
       "settings": {
-        "foreground": "#40e0d0"
+        "foreground": "#67da61" //40e0d0
       }
     },
     {
