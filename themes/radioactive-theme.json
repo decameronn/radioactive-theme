@@ -162,7 +162,7 @@
     "sideBarSectionHeader.foreground": "#ffa72e",
 
     // Statusbar
-    "statusBar.background": "#ccb603", //661c14
+    "statusBar.background": "#b0d011", //661c14 ccb603
     // "statusBarItem.warningBackground": "#ff0000",
     "statusBar.debuggingBackground": "#111111",
     "statusBar.debuggingForeground": "#ffa72e",
@@ -195,9 +195,9 @@
     
     
     // Title Bar
-    "titleBar.activeBackground": "#ccb603", //661c14
+    "titleBar.activeBackground": "#b0d011", //661c14 ccb603
     "titleBar.activeForeground": "#111111", //ffa72e
-    "titleBar.inactiveBackground": "#ccb603cc", //661c14aa
+    "titleBar.inactiveBackground": "#b0d011cc", //661c14aa ccb603cc
     "titleBar.inactiveForeground": "#111111", //40e0d0
     "titleBar.border": "#661c14"
   },
