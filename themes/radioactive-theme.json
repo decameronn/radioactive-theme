@@ -3,10 +3,10 @@
   "type": "dark",
   "colors": {
     // Activity bar
-    "activityBar.activeBorder": "#661c14",
+    "activityBar.activeBorder": "#3e8030", //661c14
     "activityBar.background": "#111111",
-    "activityBar.border": "#661c14",
-    "activityBar.dropBorder": "#661c14",
+    "activityBar.border": "#3e8030", //661c14
+    "activityBar.dropBorder": "#3e8030", //661c14
     "activityBar.foreground": "#ffa72e",
     "activityBar.inactiveForeground": "#ffa72e",
     "activityBarBadge.background": "#111111",
@@ -154,11 +154,11 @@
 
     // Sidebar
     "sideBar.background": "#111111",
-    "sideBar.border": "#661c14",
+    "sideBar.border": "#3e8030", //661c14
     "sideBar.dropBackground": "#111111",
     "sideBar.foreground": "#ffa72e",
     "sideBarSectionHeader.background": "#111111",
-    "sideBarSectionHeader.border": "#661c14",
+    "sideBarSectionHeader.border": "#3e8030", //661c14
     "sideBarSectionHeader.foreground": "#ffa72e",
 
     // Statusbar
@@ -223,7 +223,7 @@
       // String
       "scope": "string",
       "settings": {
-        "foreground": "#40e0d0"
+        "foreground": "#67da61" //40e0d0
       }
     },
     {
