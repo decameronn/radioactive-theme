@@ -206,7 +206,7 @@
       // Comment
       "scope": "comment",
       "settings": {
-        "foreground": "#b8ff48" //8f5046 70b445
+        "foreground": "#ebfa63" //8f5046 70b445
       }
     },
     {
@@ -216,7 +216,7 @@
         "comment.block.documentation"
       ],
       "settings": {
-        "foreground": "#cefc48" //5c332d
+        "foreground": "#e5ff64" //5c332d
       }
     },
     {
